@@ -1,6 +1,6 @@
 ### Hi folks, I'm Pranav Kapoor 👋
 
-- # **I am a software professional**
+# **I am a Software Professional**
 - 🔭 I’m an experienced developer in Flutter and Android development.
 - 🌱 I’m a Problem solving enthusiast and love to get my hands dirty in Data structure and Algorithm.
 - 🌱 Currently learning and working on NLP and Artifical Intelligence.
